@@ -1,0 +1,8 @@
+What types of code example are available?
+There are four types of code example available on MDN:
+
+Static examples — plain code blocks, possibly with a screenshot to statically show the result of such code if it were to be run.
+Traditional MDN "live samples" — A macro that takes plain code blocks, dynamically puts them into a document inside an <iframe> element, and embeds it into the page to show the code running live.
+GitHub "live samples" — A macro that takes a document in a GitHub repo inside the mdn organization, puts it inside an <iframe> element, and embeds it into the page to show the code running live.
+Interactive examples — Our system for creating live interactive examples that show the code running live but also allow you to change code on the fly to see what the effect is.
+We'll discuss each one in later sections.
